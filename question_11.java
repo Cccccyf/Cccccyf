@@ -3,6 +3,7 @@ package leetcode;
 //水量等于两数在数组中的索引之差与较小数的乘积
 //我要疯了shit
 //双指针方法
+//fuck
 public class question_11{
     public int maxArea(int[] height){
         int length = height.length;
