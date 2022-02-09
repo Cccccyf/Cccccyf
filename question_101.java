@@ -1,7 +1,7 @@
 package leetcode;
 //leetcode_101对称二叉树
 //靠清楚思想啊你个傻逼
-public class quesiton_101 {
+public class question_101 {
     public boolean isSymmetric(TreeNode root) {
         if(root == null) return true;
         return check(root,root);
