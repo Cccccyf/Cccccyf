@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //leetcode_144二叉树的前序遍历
-public class quesiton_144 {
+public class question_144 {
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<>();
         preTraversal(root,res);
