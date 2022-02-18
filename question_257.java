@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //leetcode_257二叉树的所有路径
-//思想
+//回溯思想
 public class question_257 {
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> res = new ArrayList<>();
