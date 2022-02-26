@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Stack;
 
-//leetcode_20有效的括号
+//leetcode_20有效的括 号
 public class question_20 {
     public boolean isValid(String s) {
         Stack<Character> brackets = new Stack<>();
