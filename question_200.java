@@ -1,7 +1,7 @@
 package leetcode;
 //leetcode_200岛屿数量
 //深度优先搜索
-//还有栈的解法？
+//还有栈的解法？——————>BFS
 public class question_200 {
     public int numIslands(char[][] grid) {
         int num = 0;
