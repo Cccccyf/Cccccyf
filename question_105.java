@@ -1,7 +1,4 @@
 package leetcode;
-
-import groovyjarjarantlr4.runtime.tree.Tree;
-
 //leetcode_105从前序与中序遍历序列构造二叉树
 public class question_105 {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
