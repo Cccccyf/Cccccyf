@@ -8,7 +8,6 @@ public class question_454 {
     public static int fourSumCount(int[] nums1, int[] nums2, int[] nums3, int[] nums4) {
         int count = 0;
         Map<Integer,Integer> AnB = new HashMap<>();
-        Map<Integer,Integer> CnD = new HashMap<>();
         for(int num:nums1)
         {
             for(int num_:nums2)
